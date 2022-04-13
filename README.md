@@ -13,8 +13,7 @@ is is the page view:
 
 > || mobile version | desktop version||
 > |-|---------|----------|-|
-> || ![Screenshot1](https://github.com/MaganaAsiati/capstone_first_module-/blob/README/images/Screenshot_desktop.png)  | ![Screenshot2](https://github.com/MaganaAsiati/capstone_first_module-/blob/README/images/Screenshot_desktop.png) | 
-
+> || !![Screenshot1](https://user-images.githubusercontent.com/95297251/163288235-1ed01dc4-9454-47ee-bd8a-afe1f1ea375b.png)  | !![Screenshot1](https://user-images.githubusercontent.com/95297251/163288235-1ed01dc4-9454-47ee-bd8a-afe1f1ea375b.png)
 
 > Learning objectives: 
 
