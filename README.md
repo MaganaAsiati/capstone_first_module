@@ -13,7 +13,7 @@ is is the page view:
 
 > || mobile version | desktop version||
 > |-|---------|----------|-|
-> || !![Screenshot1](https://user-images.githubusercontent.com/95297251/163288235-1ed01dc4-9454-47ee-bd8a-afe1f1ea375b.png)  | !![Screenshot1](https://user-images.githubusercontent.com/95297251/163288235-1ed01dc4-9454-47ee-bd8a-afe1f1ea375b.png)
+> || ![Screenshot1](https://user-images.githubusercontent.com/95297251/163288235-1ed01dc4-9454-47ee-bd8a-afe1f1ea375b.png)  | ![Screenshot2](https://user-images.githubusercontent.com/95297251/163289045-af9fb6ca-f3d9-4fff-ab52-ff1ea74f1381.png)
 
 > Learning objectives: 
 
