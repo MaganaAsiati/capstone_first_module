@@ -225,14 +225,14 @@ h2 {
 }
 
 .home_section_title h2 {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 500;
   line-height: 52px;
   padding: 12px 0;
 }
 
 .home_section_title h1 {
-  font-size: 48px;
+  font-size: 38px;
   font-weight: 800;
   line-height: 60px;
   color: var(--seconderyColor);

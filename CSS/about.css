@@ -222,14 +222,14 @@ ul {
 }
 
 .home_section_title h2 {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 400;
   line-height: 52px;
   padding: 12px 0;
 }
 
 .home_section_title h1 {
-  font-size: 48px;
+  font-size: 38px;
   font-weight: var(--weight);
   line-height: 60px;
   color: var(--seconderyColor);
