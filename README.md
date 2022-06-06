@@ -5,7 +5,7 @@
 
 ## Live Demon
 
-> [https://maganaasiati.github.io/capstone_first_module-/](https://maganaasiati.github.io/capstone_first_module-/)
+> [Live Demo](https://luxury-halva-c73c1e.netlify.app)
 ## Description
 
 > In this capstone project  I build  an online website for a gender equality
