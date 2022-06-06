@@ -11,11 +11,9 @@
 > In this capstone project  I build  an online website for a gender equality
 is is the page view:
 
-> || mobile version | desktop version||
-> |-|---------|----------|-|
-> ||![Screenshot2](https://user-images.githubusercontent.com/95297251/163289045-af9fb6ca-f3d9-4fff-ab52-ff1ea74f1381.png) | ![Screenshot1](https://user-images.githubusercontent.com/95297251/163288235-1ed01dc4-9454-47ee-bd8a-afe1f1ea375b.png) 
-
-> Learning objectives: 
+## view of the project
+![all-devices-white (1)](https://user-images.githubusercontent.com/95297251/172187574-62c09b52-a907-4b88-b18b-315930d6fa40.png)
+## Learning objectives: 
 
 - Use semantic HTML tags.
 - Apply best practices in HTML code.
