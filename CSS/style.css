@@ -497,6 +497,12 @@ footer .created p {
   text-align: left;
 }
 
+
+header .hamburger {
+  height: 60px;
+  background-color: var(--primary);
+}
+
 @media screen and (min-width: 768px) {
   .home_section {
     padding-left: 10%;
@@ -554,6 +560,8 @@ footer .created p {
     right: 0;
     justify-content: space-around;
     z-index: 2;
+    height: 85px;
+    background-color: var(--primary);
   }
 
   nav .logo {
